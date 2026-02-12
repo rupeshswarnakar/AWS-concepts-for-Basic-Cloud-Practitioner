@@ -122,7 +122,7 @@ This concept is related to cloud communication.
   Application A ----->|Message Queue|-----> Application B
 
 Types of Message & Queue:
-  - EventBridge =
+  - EventBridge:
       Serverless services that connect all the event loosely hence others aren't impacted if one is.
       For eg., if you place order on doordash then payment, order notice, delivery etc. has to be performed. Among these events, if one is impacted then others should run smoothly
   - Amazon simple queue service ( Amazon SQS):
