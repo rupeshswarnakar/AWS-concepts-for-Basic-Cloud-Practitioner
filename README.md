@@ -225,6 +225,99 @@ C. Building a new data center in the US and implementing a hybrid model.
 D. Deploying new Amazon EC2 instances in a Region located in the US.
 Answer
 Correct answer: D
+
+An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+
+A. IAM roles.
+B. IAM users.
+C. IAM user groups.
+D. AWS Organizations.
+Answer
+Correct answer: C
+
+A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
+
+A. AWS OpsWorks.
+B. AWS Database Migration Service.
+C. AWS Server Migration Service.
+D. AWS Application Discovery Service.
+Answer
+Correct answer: B
+
+Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
+
+A. Build security in every layer.
+B. Parallelize tasks.
+C. Implement elasticity.
+D. Adopt monolithic architecture.
+Answer
+Correct answer: C
+
+What are the benefits of having infrastructure hosted in AWS? (Choose TWO)
+
+A. Increasing speed and agility.
+B. There is no need to worry about security.
+C. Gaining complete control over the physical infrastructure.
+D. Operating applications on behalf of customers.
+E. All of the physical security and most of the data/network security are taken care of for you.
+Answer
+Correct answer: A, E
+
+What is the advantage of the AWS-recommended practice of "decoupling" applications?
+
+A. Allows treating an application as a single, cohesive unit.
+B. Reduces inter-dependencies so that failures do not impact other components of the application.
+C. Allows updates of any monolithic application quickly and easily.
+D. Allows tracking of any API call made to any AWS service.
+Answer
+Correct answer: B
+
+Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
+
+A. AWS Budgets.
+B. AWS Pricing Calculator.
+C. AWS Systems Manager.
+D. AWS Cost & Usage Reports.
+Answer
+Correct answer: D
+
+What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
+
+A. AWS services’ costs will be reduced to half the original price.
+B. The consolidated billing feature is just for organizational purpose.
+C. Each AWS account gets volume discounts.
+D. Each AWS account gets five times the free-tier services capacity.
+Answer
+Correct answer: C
+
+What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
+
+A. Regularly update firmware on EBS devices.
+B. Create EBS snapshots.
+C. Ensure that EBS data is encrypted at rest.
+D. Store a backup daily in an external drive.
+E. Prevent any unauthorized access to AWS data centers.
+Answer
+Correct answer: B, C
+
+One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
+
+A. By automatically scaling your on-premises resources based on changes in demand.
+B. By automatically scaling your AWS resources using an Elastic Load Balancer.
+C. By reducing interdependencies between application components wherever possible.
+D. By automatically provisioning the required AWS resources based on changes in demand.
+Answer
+Correct answer: D
+
+A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
+
+A. Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
+B. Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis.
+C. Configure the AWS Budgets Service to alert the company when the threshold is exceeded.
+D. Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded.
+E. Configure the Amazon Connect Service to alert the company when the threshold is exceeded.
+Answer
+Correct answer: A, C
 ```
 
 
