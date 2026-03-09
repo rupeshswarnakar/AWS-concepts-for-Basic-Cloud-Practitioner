@@ -327,6 +327,7 @@ C. AWS Edge Locations.
 D. AWS Availability Zones.
 Answer
 Correct answer: C
+
 What does the "Principle of Least Privilege" refer to?
 
 A. You should grant your users only the permissions they need when they need them and nothing more.
@@ -335,6 +336,7 @@ C. All trusted IAM users should have access to any AWS service in the respective
 D. IAM users should not be granted any permissions; to keep your account safe.
 Answer
 Correct answer: A
+
 Which of the following does NOT belong to the AWS Cloud Computing models?
 
 A. Platform as a Service (PaaS).
@@ -343,6 +345,7 @@ C. Software as a Service (SaaS).
 D. Networking as a Service (NaaS).
 Answer
 Correct answer: D
+
 The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?
 
 A. S3 Intelligent-Tiering.
@@ -351,6 +354,7 @@ C. Amazon S3 Glacier Deep Archive.
 D. Amazon EBS.
 Answer
 Correct answer: C
+
 Which service provides DNS in the AWS cloud?
 
 A. Route 53.
@@ -359,6 +363,7 @@ C. Amazon CloudFront.
 D. Amazon EMR.
 Answer
 Correct answer: A
+
 Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)
 
 A. AWS Shield.
@@ -368,6 +373,7 @@ D. AWS WAF.
 E. AWS KMS.
 Answer
 Correct answer: A, D
+
 A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?
 
 A. AWS OpsWorks.
@@ -376,6 +382,7 @@ C. Amazon EBS volume.
 D. Amazon ElastiCache.
 Answer
 Correct answer: D
+
 You want to run a questionnaire application for only one day (without interruption), which Amazon EC2 purchase option should you use?
 
 A. Reserved instances.
@@ -384,6 +391,7 @@ C. Dedicated instances.
 D. On-demand instances.
 Answer
 Correct answer: D
+
 You are working on a project that involves creating thumbnails of millions of images. Consistent uptime is not an issue, and continuous processing is not required. Which EC2 buying option would be the most cost-effective?
 
 A. Reserved Instances.
@@ -392,6 +400,7 @@ C. Dedicated Instances.
 D. Spot Instances.
 Answer
 Correct answer: D
+
 Which of the following can be described as a global content delivery network (CDN) service?
 
 A. AWS VPN.
@@ -400,6 +409,7 @@ C. AWS Regions.
 D. Amazon CloudFront.
 Answer
 Correct answer: D
+
 Which of the following services allows customers to manage their agreements with AWS?
 
 A. AWS Artifact.
@@ -408,6 +418,7 @@ C. AWS Systems Manager.
 D. AWS Organizations.
 Answer
 Correct answer: A
+
 Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
 
 A. Amazon VPC.
@@ -416,6 +427,8 @@ C. Amazon Elastic MapReduce.
 D. AWS IAM.
 E. Amazon Elastic Compute Cloud.
 Answer
+Correct Answer: B, C
+
 Your company has a data store application that requires access to a NoSQL database. Which AWS database offering would meet this requirement?
 
 A. Amazon Aurora.
@@ -424,6 +437,7 @@ C. Amazon Elastic Block Store.
 D. Amazon Redshift.
 Answer
 Correct answer: B
+
 As part of the Enterprise support plan, who is the primary point of contact for ongoing support needs?
 
 A. AWS Identity and Access Management (IAM) user.
@@ -432,6 +446,7 @@ C. AWS Consulting Partners.
 D. Technical Account Manager (TAM).
 Answer
 Correct answer: D
+
 How can you view the distribution of AWS spending in one of your AWS accounts?
 
 A. By using Amazon VPC console.
@@ -440,6 +455,7 @@ C. By using AWS Cost Explorer.
 D. By contacting the AWS Finance team.
 Answer
 Correct answer: C
+
 Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?
 
 A. Access keys.
@@ -448,6 +464,7 @@ C. UserID.
 D. User name and password.
 Answer
 Correct answer: A
+
 You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
 
 A. Contact the AWS Customer Service team.
@@ -456,6 +473,7 @@ C. Contact the AWS Concierge team.
 D. Contact the AWS Security team.
 Answer
 Correct answer: B
+
 Select TWO examples of the AWS shared controls.
 
 A. Patch Management.
@@ -465,6 +483,7 @@ D. Configuration Management.
 E. Data Center operations.
 Answer
 Correct answer: A, D
+
 In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
 
 A. ELB.
@@ -474,6 +493,7 @@ D. ECR.
 E. Amazon EC2.
 Answer
 Correct answer: A, B
+
 A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?
 
 A. Amazon SNS.
@@ -482,6 +502,7 @@ C. AWS CloudFormation.
 D. Amazon CloudFront.
 Answer
 Correct answer: D
+
 A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?
 
 A. A MySQL database installed on an EC2 instance.
@@ -490,6 +511,7 @@ C. Amazon DynamoDB.
 D. Amazon Neptune.
 Answer
 Correct answer: B
+
 What is the AWS service that enables AWS architects to manage infrastructure as code?
 
 A. AWS CloudFormation.
@@ -498,6 +520,7 @@ C. Amazon SES.
 D. Amazon EMR.
 Answer
 Correct answer: A
+
 Under the shared responsibility model, which of the following is the responsibility of AWS?
 
 A. Client-side encryption.
@@ -506,6 +529,7 @@ C. Server-side encryption.
 D. Filtering traffic with Security Groups.
 Answer
 Correct answer: B
+
 What does the AWS Health Dashboard provide? (Choose TWO)
 
 A. Detailed troubleshooting guidance to address AWS events impacting your resources.
@@ -515,6 +539,7 @@ D. A dashboard detailing vulnerabilities in your applications.
 E. Personalized view of AWS service health.
 Answer
 Correct answer: A, E
+
 You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
 
 A. AWS Lambda.
@@ -523,6 +548,7 @@ C. Amazon CloudWatch.
 D. AWS CloudTrail.
 Answer
 Correct answer: C
+
 Your company is developing a critical web application in AWS, and the security of the application is a top priority. Which of the following AWS services will provide infrastructure security optimization recommendations?
 
 A. AWS Shield.
@@ -531,6 +557,7 @@ C. AWS Secrets Manager.
 D. AWS Trusted Advisor.
 Answer
 Correct answer: D
+
 Which of the following is not a benefit of Amazon S3? (Choose TWO)
 
 A. Amazon S3 provides unlimited storage for any type of data.
@@ -540,6 +567,7 @@ D. Amazon S3 can be scaled manually to store and retrieve any amount of data fro
 E. Amazon S3 provides 99.999999999% (11 9’s) of data durability.
 Answer
 Correct answer: B, D
+
 In the AWS Shared responsibility Model, which of the following are the responsibility of the customer? (Choose TWO)
 
 A. Disk disposal.
@@ -549,6 +577,7 @@ D. Setting password complexity rules.
 E. Configuring network access rules.
 Answer
 Correct answer: D, E
+
 What does AWS provide to deploy popular technologies such as IBM MQ on AWS with the least amount of effort and time?
 
 A. Amazon Aurora.
@@ -557,6 +586,7 @@ C. AWS Quick Start reference deployments.
 D. AWS OpsWorks.
 Answer
 Correct answer: C
+
 An organization has decided to purchase an Amazon EC2 Reserved Instance (RI) for three years in order to reduce costs. It is possible that the application workloads could change during the reservation period. What is the EC2 Reserved Instance (RI) type that will allow the company to exchange the purchased reserved instance for another reserved instance with higher computing power if they need to?
 
 A. Elastic RI.
