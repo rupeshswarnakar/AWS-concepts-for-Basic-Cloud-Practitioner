@@ -132,6 +132,91 @@ k. Types of Message & Queue:
       Public subscribe service. Publishers send messages to their subscribers thorugh SNS topics.
       For eg., a marketing compoany ccan send new items, discount offers, new updates on policies, all these emails separately dedicating to right customers through Amazon SNS.
 
+## Practice Questions
+```
+AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
+
+A. AWS CLI.
+B. AWS API.
+C. AWS SDK.
+D. AWS Management Console.
+Answer
+Correct answer: D
+Which of the following is an example of horizontal scaling in the AWS Cloud?
+
+A. Replacing an existing EC2 instance with a larger, more powerful one.
+B. Increasing the compute capacity of a single EC2 instance to address the growing demands of an application.
+C. Adding more RAM capacity to an EC2 instance.
+D. Adding more EC2 instances of the same size to handle an increase in traffic.
+Answer
+Correct answer: D
+You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
+
+A. Amazon Inspector.
+B. AWS CloudTrail.
+C. AWS Trusted Advisor.
+D. EC2 Instance Usage Report.
+Answer
+Correct answer: B
+Which of the below options are related to the reliability of AWS? (Choose TWO)
+
+A. Applying the principle of least privilege to all AWS resources.
+B. Automatically provisioning new resources to meet demand.
+C. All AWS services are considered Global Services, and this design helps customers serve their international users.
+D. Providing compensation to customers if issues occur.
+E. Ability to recover quickly from failures.
+Answer
+Correct answer: B, E
+Which statement is true regarding the AWS Shared Responsibility Model?
+
+A. Responsibilities vary depending on the services used.
+B. Security of the IaaS services is the responsibility of AWS.
+C. Patching the guest OS is always the responsibility of AWS.
+D. Security of the managed services is the responsibility of the customer.
+Answer
+Correct answer: A
+You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
+
+A. The Reserved Instance discounts can only be shared with the master account.
+B. All accounts can receive the hourly cost benefit of the Reserved Instances.
+C. The purchased instances will have better performance than On-demand instances.
+D. There are no cost benefits from using consolidated billing; It is for informational purposes only.
+Answer
+Correct answer: B
+A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
+
+A. Deploy the application across multiple Availability Zones and Edge locations.
+B. Deploy the application across multiple Availability Zones and subnets.
+C. Deploy the application across multiple Regions and Availability Zones.
+D. Deploy the application across multiple VPC’s and subnets.
+Answer
+Correct answer: C
+What does AWS Snowball provide? (Choose TWO)
+
+A. Built-in computing capabilities that allow customers to process data locally.
+B. A catalog of third-party software solutions that customers need to build solutions and run their businesses.
+C. A hybrid cloud storage between on-premises environments and the AWS Cloud.
+D. An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.
+E. Secure transfer of large amounts of data into and out of the AWS.
+Answer
+Correct answer: A, E
+A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
+
+A. AWS Health Dashboard.
+B. AWS Support Concierge.
+C. AWS Customer Service.
+D. AWS Operations Support.
+Answer
+Correct answer: B
+A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
+
+A. Applying the Amazon Connect latency-based routing policy.
+B. Registering a new US domain name to serve the users in the US.
+C. Building a new data center in the US and implementing a hybrid model.
+D. Deploying new Amazon EC2 instances in a Region located in the US.
+Answer
+Correct answer: D
+```
 
 
 
