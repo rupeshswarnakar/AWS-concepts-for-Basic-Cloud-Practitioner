@@ -595,6 +595,89 @@ C. Standard RI.
 D. Convertible RI.
 Answer
 Correct answer: D
+
+Where can you store files in AWS? (Choose TWO)
+
+A. Amazon EFS.
+B. Amazon SNS.
+C. Amazon EBS.
+D. Amazon ECS.
+E. Amazon EMR.
+Answer
+Correct answer: A, C
+Which AWS service can be used to store and reliably deliver messages across distributed systems?
+
+A. Amazon Simple Queue Service.
+B. AWS Storage Gateway.
+C. Amazon Simple Email Service.
+D. Amazon Simple Storage Service.
+Answer
+Correct answer: A
+Which of the following describes the payment model that AWS makes available for customers that can commit to using Amazon EC2 over a one or 3-year term to reduce their total computing costs?
+
+A. Pay less as AWS grows.
+B. Pay as you go.
+C. Pay less by using more.
+D. Save when you reserve.
+Answer
+Correct answer: D
+A company is migrating its on-premises database to Amazon RDS. What should the company do to ensure Amazon RDS costs are kept to a minimum?
+
+A. Right-size before and after migration.
+B. Use a Multi-Region Active-Passive architecture.
+C. Combine On-demand Capacity Reservations with Saving Plans.
+D. Use a Multi-Region Active-Active architecture.
+Answer
+Correct answer: A
+What is the primary storage service used by Amazon RDS database instances?
+
+A. Amazon Glacier.
+B. Amazon EBS.
+C. Amazon EFS.
+D. Amazon S3.
+Answer
+Correct answer: B
+A company is developing a new application using a microservices framework. The new application is having performance and latency issues. Which AWS Service should be used to troubleshoot these issues?
+
+A. AWS CodePipeline.
+B. AWS X-Ray.
+C. Amazon Inspector.
+D. AWS CloudTrail.
+Answer
+Which of the following AWS services is designed with native Multi-AZ fault tolerance in mind? (Choose TWO)
+
+A. Amazon Redshift.
+B. AWS Snowball.
+C. Amazon Simple Storage Service.
+D. Amazon EBS.
+E. Amazon DynamoDB.
+Answer
+Correct answer: C, E
+What are the Amazon RDS features that can be used to improve the availability of your database? (Choose TWO)
+
+A. AWS Regions.
+B. Multi-AZ Deployment.
+C. Automatic patching.
+D. Read Replicas.
+E. Edge Locations.
+Answer
+Correct answer: B, D
+Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application’s traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?
+
+A. Replicate the current resources across multiple Availability Zones within the same region.
+B. Migrate the application to a hosting provider in Asia.
+C. Recreate the website content.
+D. Create a CDN using CloudFront, so that content is cached at Edge Locations close to and in Asia.
+Answer
+Correct answer: D
+An organization runs many systems and uses many AWS products. Which of the following services enables them to control how each developer interacts with these products?
+
+A. AWS Identity and Access Management.
+B. Amazon RDS.
+C. Network Access Control Lists.
+D. Amazon EMR.
+Answer
+Correct answer: A
 ```
 
 
