@@ -965,6 +965,52 @@ Answer
 
 Correct answer: D
 
+According to the AWS shared responsibility model what is the sole responsibility of AWS?
+
+A. Application security.
+B. Edge location management.
+C. Patch management.
+D. Client-side data.
+Answer
+Correct answer: B
+
+Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO)
+
+A. Multiple Availability Zones.
+B. Performance efficiency.
+C. Security.
+D. Encryption usage.
+E. High availability.
+Answer
+Correct answer: B, C
+
+Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
+
+A. AWS Trusted Advisor.
+B. Amazon Inspector.
+C. Amazon CloudWatch.
+D. AWS CloudTrail.
+Answer
+Correct answer: A
+
+Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO)
+
+A. Use manual monitoring.
+B. Use fixed servers.
+C. Implement loose coupling.
+D. Rely on individual components.
+E. Design for scalability.
+Answer
+Correct answer: C, E
+
+When architecting cloud applications, which of the following are a key design principle?
+
+A. Use the largest instance possible.
+B. Provision capacity for peak load.
+C. Use the Scrum development process.
+D. Implement elasticity.
+Answer
+Correct answer: D
 ```
 
 
