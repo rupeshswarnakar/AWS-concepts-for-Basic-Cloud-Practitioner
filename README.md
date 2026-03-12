@@ -1011,6 +1011,52 @@ C. Use the Scrum development process.
 D. Implement elasticity.
 Answer
 Correct answer: D
+
+A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
+
+A. Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
+B. Enable automate patching for the instances using the Amazon RDS console.
+C. In AWS Config. configure a rule for the instances and the required patch level.
+D. Use AWS Systems Manager to automate database patching according to a schedule.
+Answer
+Correct answer: D
+
+Which mechanism allows developers to access AWS services from application code?
+
+A. AWS Software Development Kit.
+B. AWS Management Console.
+C. AWS CodePipeline.
+D. AWS Config.
+Answer
+Correct answer: A
+
+Which AWS feature will reduce the customer’s total cost of ownership (TCO)?
+
+A. Shared responsibility security model.
+B. Single tenancy.
+C. Elastic computing.
+D. Encryption.
+Answer
+Correct answer: C
+
+Which of the following is a benefit of using the AWS Cloud?
+
+A. Permissive security removes the administrative burden.
+B. Ability to focus on revenue-generating activities.
+C. Control over cloud network hardware.
+D. Choice of specific cloud hardware vendors.
+Answer
+Correct answer: B
+
+Which of the following are categories of AWS Trusted Advisor? (Select TWO)
+
+A. Fault Tolerance.
+B. Instance Usage.
+C. Infrastructure.
+D. Performance.
+E. Storage Capacity.
+Answer
+Correct answer: A, D
 ```
 
 
