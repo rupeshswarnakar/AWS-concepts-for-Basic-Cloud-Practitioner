@@ -882,6 +882,7 @@ C. AWS CodeCommit.
 D. AWS Quick Start reference deployments.
 Answer
 Correct answer: D
+
 What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
 
 A. It simplifies relational database administration tasks.
@@ -890,6 +891,7 @@ C. It automatically scales databases for loads.
 D. It enables users to dynamically adjust CPU and RAM resources.
 Answer
 Correct answer: A
+
 Which of the following AWS Cloud services can be used to run a customer-managed relational database?
 
 A. Amazon EC2.
@@ -898,6 +900,7 @@ C. Amazon ElastiCache.
 D. Amazon DynamoDB.
 Answer
 Correct answer: A
+
 A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?
 
 A. Launch the instances across multiple Availability Zones in a single AWS Region.
@@ -906,6 +909,7 @@ C. Launch the instances in multiple AWS Regions but in the same Availability Zon
 D. Launch the instances as EC2 Spot Instances in the same AWS Region but in different Availability Zones.
 Answer
 Correct answer: A
+
 Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
 
 A. A public and private key-pair.
@@ -914,6 +918,53 @@ C. AWS Identity and Access Management (IAM) policies.
 D. Security Groups.
 Answer
 Correct answer: C
+
+Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)
+
+A. AWS VPN.
+B. Amazon Redshift.
+C. API Gateway.
+D. Amazon Direct Connect.
+Answer
+Correct answer: A, D
+
+Which AWS service or feature can be used to monitor CPU usage?
+
+A. AWS CloudTrail.
+B. VPC Flow Logs.
+C. Amazon CloudWatch.
+D. AWS Config.
+Answer
+Correct answer: C
+
+Which task is AWS responsible for in the shared responsibility model for security and compliance?
+
+A. Granting access to individuals and services.
+B. Encrypting data in transit.
+C. Updating Amazon EC2 host firmware.
+D. Updating operating systems.
+Answer
+Correct answer: C
+
+Which of the following security-related actions are available at no cost?
+
+A. Calling AWS Support.
+B. Contacting AWS Professional Services to request a workshop.
+C. Accessing forums, blogs, and whitepapers.
+D. Attending AWS classes at a local university.
+Answer
+Correct answer: C
+
+Which storage service can be used as a low-cost option for hosting static websites?
+
+A. Amazon Glacier.
+B. Amazon DynamoDB.
+C. Amazon Elastic File System (Amazon EFS).
+D. Amazon Simple Storage Service (Amazon S3).
+Answer
+
+Correct answer: D
+
 ```
 
 
