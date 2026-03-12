@@ -780,6 +780,99 @@ C. Network Access Control Lists.
 D. Amazon EMR.
 Answer
 Correct answer: A
+
+Using Amazon EC2 falls under which of the following cloud computing models?
+
+A. Iaas & SaaS.
+B. IaaS.
+C. SaaS.
+D. PaaS.
+Answer
+Correct answer: B
+
+Which of the below is a best-practice when building applications on AWS?
+
+A. Strengthen physical security by applying the principle of least privilege.
+B. Ensure that the application runs on hardware from trusted vendors.
+C. Use IAM policies to maintain performance.
+D. Decouple the components of the application so that they run independently.
+Answer
+Correct answer: D
+
+Your company is designing a new application that will store and retrieve photos and videos. Which of the following services should you recommend as the underlying storage mechanism?
+
+A. Amazon EBS.
+B. Amazon SQS.
+C. Amazon Instance store.
+D. Amazon S3.
+Answer
+Correct answer: D
+
+Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
+
+A. Active archives.
+B. Dynamic websites’ assets.
+C. Long-term analytic data.
+D. Active databases.
+E. Cached data.
+Answer
+Correct answer: A, C
+
+What does Amazon Elastic Beanstalk provide?
+
+A. A PaaS solution to automate application deployment.
+B. A compute engine for Amazon ECS.
+C. A scalable file storage solution for use with AWS and on-premises servers.
+D. A NoSQL database service.
+Answer
+Correct answer: A
+
+What is the AWS service that performs automated network assessments of Amazon EC2 instances to check for vulnerabilities?
+
+A. Amazon Kinesis.
+B. Security groups.
+C. Amazon Inspector.
+D. AWS Network Access Control Lists.
+Answer
+Correct answer: C
+
+Under the Shared Responsibility Model, which of the following controls do customers fully inherit from AWS? (Choose TWO)
+
+A. Patch management controls.
+B. Database controls.
+C. Awareness & Training.
+D. Environmental controls.
+E. Physical controls.
+Answer
+Correct answer: D, E
+
+A company needs to host a database in Amazon RDS for at least three years. Which of the following options would be the most cost-effective solution?
+
+A. Reserved instances - No Upfront.
+B. Reserved instances - Partial Upfront.
+C. On-Demand instances.
+D. Spot Instances.
+Answer
+Correct answer: B
+
+Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users’ experience?
+
+A. Elasticity.
+B. Global reach.
+C. Data durability.
+D. High availability.
+Answer
+Correct answer: B
+
+Savings Plans are available for which of the following AWS compute services? (Choose TWO)
+
+A. AWS Batch.
+B. AWS Outposts.
+C. Amazon Lightsail.
+D. Amazon EC2.
+E. AWS Lambda.
+Answer
+Correct answer: D, E
 ```
 
 
