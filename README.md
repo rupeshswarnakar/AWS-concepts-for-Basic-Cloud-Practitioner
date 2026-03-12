@@ -873,6 +873,47 @@ D. Amazon EC2.
 E. AWS Lambda.
 Answer
 Correct answer: D, E
+
+An administrator needs to rapidly deploy a popular IT solution and start using it immediately. Where can the administrator find assistance?
+
+A. AWS Well-Architected Framework documentation.
+B. Amazon CloudFront.
+C. AWS CodeCommit.
+D. AWS Quick Start reference deployments.
+Answer
+Correct answer: D
+What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
+
+A. It simplifies relational database administration tasks.
+B. It provides 99.99999999999% reliability and durability.
+C. It automatically scales databases for loads.
+D. It enables users to dynamically adjust CPU and RAM resources.
+Answer
+Correct answer: A
+Which of the following AWS Cloud services can be used to run a customer-managed relational database?
+
+A. Amazon EC2.
+B. Amazon Route 53.
+C. Amazon ElastiCache.
+D. Amazon DynamoDB.
+Answer
+Correct answer: A
+A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?
+
+A. Launch the instances across multiple Availability Zones in a single AWS Region.
+B. Launch the instances as EC2 Reserved Instances in the same AWS Region and the same Availability Zone.
+C. Launch the instances in multiple AWS Regions but in the same Availability Zone.
+D. Launch the instances as EC2 Spot Instances in the same AWS Region but in different Availability Zones.
+Answer
+Correct answer: A
+Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
+
+A. A public and private key-pair.
+B. Amazon Inspector.
+C. AWS Identity and Access Management (IAM) policies.
+D. Security Groups.
+Answer
+Correct answer: C
 ```
 
 
